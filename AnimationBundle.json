@@ -1,4 +1,1305 @@
 {
+    "300000000000000": {
+        "name": "Adidas Community",
+        "animations": [
+            {
+                "name": "Adidas Community - Idle Animation",
+                "id": 126354114956642
+            },
+            {
+                "name": "Adidas Community - Walk Animation",
+                "id": 122150855457006
+            },
+            {
+                "name": "Adidas Community - Run Animation",
+                "id": 82598234841035
+            },
+            {
+                "name": "Adidas Community - Jump Animation",
+                "id": 75290611992385
+            },
+            {
+                "name": "Adidas Community - Fall Animation",
+                "id": 98600215928904
+            },
+            {
+                "name": "Adidas Community - Climb Animation",
+                "id": 88763136693023
+            },
+            {
+                "name": "Adidas Community - Swim Animation",
+                "id": 133308483266208
+            }
+        ]
+    },
+    "300000000000001": {
+        "name": "Glow Motion",
+        "animations": [
+            {
+                "name": "Glow Motion - Idle Animation",
+                "id": 72213510878866
+            },
+            {
+                "name": "Glow Motion - Walk Animation",
+                "id": 124733969277188
+            },
+            {
+                "name": "Glow Motion - Run Animation",
+                "id": 91745899537026
+            },
+            {
+                "name": "Glow Motion - Jump Animation",
+                "id": 126137138096765
+            },
+            {
+                "name": "Glow Motion - Fall Animation",
+                "id": 76868289213402
+            },
+            {
+                "name": "Glow Motion - Climb Animation",
+                "id": 122281742555667
+            },
+            {
+                "name": "Glow Motion - Swim Animation",
+                "id": 78813763153341
+            }
+        ]
+    },
+    "300000000000002": {
+        "name": "Billie Eilish",
+        "animations": [
+            {
+                "name": "Billie Eilish - Idle Animation",
+                "id": 82009039247070
+            },
+            {
+                "name": "Billie Eilish - Walk Animation",
+                "id": 74056522836252
+            },
+            {
+                "name": "Billie Eilish - Run Animation",
+                "id": 107895705891639
+            },
+            {
+                "name": "Billie Eilish - Jump Animation",
+                "id": 114806832298003
+            },
+            {
+                "name": "Billie Eilish - Fall Animation",
+                "id": 132771121298158
+            },
+            {
+                "name": "Billie Eilish - Climb Animation",
+                "id": 95937554524959
+            },
+            {
+                "name": "Billie Eilish - Swim Animation",
+                "id": 78340083978503
+            }
+        ]
+    },
+    "300000000000003": {
+        "name": "Handstand Animation Pack",
+        "animations": [
+            {
+                "name": "Handstand Animation Pack - Idle Animation",
+                "id": 119718678619654
+            },
+            {
+                "name": "Handstand Animation Pack - Walk Animation",
+                "id": 117765825848453
+            },
+            {
+                "name": "Handstand Animation Pack - Run Animation",
+                "id": 99875831172373
+            },
+            {
+                "name": "Handstand Animation Pack - Jump Animation",
+                "id": 128965057150875
+            },
+            {
+                "name": "Handstand Animation Pack - Fall Animation",
+                "id": 111831828617770
+            },
+            {
+                "name": "Handstand Animation Pack - Climb Animation",
+                "id": 112505979110458
+            },
+            {
+                "name": "Handstand Animation Pack - Swim Animation",
+                "id": 82730580219519
+            }
+        ]
+    },
+    "300000000000004": {
+        "name": "Dog Bunny Animation Pack",
+        "animations": [
+            {
+                "name": "Dog Bunny Animation Pack - Idle Animation",
+                "id": 117578052856086
+            },
+            {
+                "name": "Dog Bunny Animation Pack - Walk Animation",
+                "id": 93195124672420
+            },
+            {
+                "name": "Dog Bunny Animation Pack - Run Animation",
+                "id": 80744014032460
+            },
+            {
+                "name": "Dog Bunny Animation Pack - Jump Animation",
+                "id": 91689511109384
+            },
+            {
+                "name": "Dog Bunny Animation Pack - Fall Animation",
+                "id": 138712913675658
+            },
+            {
+                "name": "Dog Bunny Animation Pack - Climb Animation",
+                "id": 139564919712366
+            },
+            {
+                "name": "Dog Bunny Animation Pack - Swim Animation",
+                "id": 88811196999845
+            }
+        ]
+    },
+    "300000000000005": {
+        "name": "Hoverboard Animation Pack",
+        "animations": [
+            {
+                "name": "Hoverboard Animation Pack - Idle Animation",
+                "id": 139054058038226
+            },
+            {
+                "name": "Hoverboard Animation Pack - Walk Animation",
+                "id": 97065248057640
+            },
+            {
+                "name": "Hoverboard Animation Pack - Run Animation",
+                "id": 89532448464946
+            },
+            {
+                "name": "Hoverboard Animation Pack - Jump Animation",
+                "id": 102860697251632
+            },
+            {
+                "name": "Hoverboard Animation Pack - Fall Animation",
+                "id": 90353939293034
+            },
+            {
+                "name": "Hoverboard Animation Pack - Climb Animation",
+                "id": 128257589957243
+            },
+            {
+                "name": "Hoverboard Animation Pack - Swim Animation",
+                "id": 133596372835000
+            }
+        ]
+    },
+    "300000000000006": {
+        "name": "Sprinter Animation Pack",
+        "animations": [
+            {
+                "name": "Sprinter Animation Pack - Idle Animation",
+                "id": 129794821448421
+            },
+            {
+                "name": "Sprinter Animation Pack - Walk Animation",
+                "id": 102423799534100
+            },
+            {
+                "name": "Sprinter Animation Pack - Run Animation",
+                "id": 120741731730819
+            },
+            {
+                "name": "Sprinter Animation Pack - Jump Animation",
+                "id": 139321637247351
+            },
+            {
+                "name": "Sprinter Animation Pack - Fall Animation",
+                "id": 76408670644983
+            },
+            {
+                "name": "Sprinter Animation Pack - Climb Animation",
+                "id": 123076402162196
+            },
+            {
+                "name": "Sprinter Animation Pack - Swim Animation",
+                "id": 94399444567795
+            }
+        ]
+    },
+    "300000000000007": {
+        "name": "Fighter Animation Pack",
+        "animations": [
+            {
+                "name": "Fighter Animation Pack - Idle Animation",
+                "id": 88016093360951
+            },
+            {
+                "name": "Fighter Animation Pack - Walk Animation",
+                "id": 82280787041246
+            },
+            {
+                "name": "Fighter Animation Pack - Run Animation",
+                "id": 74327884548186
+            },
+            {
+                "name": "Fighter Animation Pack - Jump Animation",
+                "id": 131675266554473
+            },
+            {
+                "name": "Fighter Animation Pack - Fall Animation",
+                "id": 134961140457349
+            },
+            {
+                "name": "Fighter Animation Pack - Climb Animation",
+                "id": 136141293963563
+            },
+            {
+                "name": "Fighter Animation Pack - Swim Animation",
+                "id": 96909954438932
+            }
+        ]
+    },
+    "300000000000008": {
+        "name": "Moonwalker Animation Pack",
+        "animations": [
+            {
+                "name": "Moonwalker Animation Pack - Idle Animation",
+                "id": 92710716765283
+            },
+            {
+                "name": "Moonwalker Animation Pack - Walk Animation",
+                "id": 114763801999339
+            },
+            {
+                "name": "Moonwalker Animation Pack - Run Animation",
+                "id": 101531926378460
+            },
+            {
+                "name": "Moonwalker Animation Pack - Jump Animation",
+                "id": 104533631513747
+            },
+            {
+                "name": "Moonwalker Animation Pack - Fall Animation",
+                "id": 70566441403811
+            },
+            {
+                "name": "Moonwalker Animation Pack - Climb Animation",
+                "id": 79306475091221
+            },
+            {
+                "name": "Moonwalker Animation Pack - Swim Animation",
+                "id": 98563274763262
+            }
+        ]
+    },
+    "300000000000009": {
+        "name": "Bruiser Animation Pack",
+        "animations": [
+            {
+                "name": "Bruiser Animation Pack - Idle Animation",
+                "id": 91486182566842
+            },
+            {
+                "name": "Bruiser Animation Pack - Walk Animation",
+                "id": 110119880881706
+            },
+            {
+                "name": "Bruiser Animation Pack - Run Animation",
+                "id": 136670254583990
+            },
+            {
+                "name": "Bruiser Animation Pack - Jump Animation",
+                "id": 110949855044563
+            },
+            {
+                "name": "Bruiser Animation Pack - Fall Animation",
+                "id": 114388482037548
+            },
+            {
+                "name": "Bruiser Animation Pack - Climb Animation",
+                "id": 113866830860789
+            },
+            {
+                "name": "Bruiser Animation Pack - Swim Animation",
+                "id": 113544566765768
+            }
+        ]
+    },
+    "300000000000010": {
+        "name": "Angel Animation Pack",
+        "animations": [
+            {
+                "name": "Angel Animation Pack - Idle Animation",
+                "id": 119395643858584
+            },
+            {
+                "name": "Angel Animation Pack - Walk Animation",
+                "id": 129380445505644
+            },
+            {
+                "name": "Angel Animation Pack - Run Animation",
+                "id": 110540935388974
+            },
+            {
+                "name": "Angel Animation Pack - Jump Animation",
+                "id": 117028353539960
+            },
+            {
+                "name": "Angel Animation Pack - Fall Animation",
+                "id": 137098035754306
+            },
+            {
+                "name": "Angel Animation Pack - Climb Animation",
+                "id": 72948750270080
+            },
+            {
+                "name": "Angel Animation Pack - Swim Animation",
+                "id": 125903638047924
+            }
+        ]
+    },
+    "300000000000011": {
+        "name": "Aura Animation Pack",
+        "animations": [
+            {
+                "name": "Aura Animation Pack - Idle Animation",
+                "id": 103073671112449
+            },
+            {
+                "name": "Aura Animation Pack - Walk Animation",
+                "id": 107974792006222
+            },
+            {
+                "name": "Aura Animation Pack - Run Animation",
+                "id": 126690709549004
+            },
+            {
+                "name": "Aura Animation Pack - Jump Animation",
+                "id": 131932286655764
+            },
+            {
+                "name": "Aura Animation Pack - Fall Animation",
+                "id": 74746323396145
+            },
+            {
+                "name": "Aura Animation Pack - Climb Animation",
+                "id": 103443334658077
+            },
+            {
+                "name": "Aura Animation Pack - Swim Animation",
+                "id": 128846499821276
+            }
+        ]
+    },
+    "300000000000012": {
+        "name": "Floating & Hovering In The Air",
+        "animations": [
+            {
+                "name": "Floating & Hovering In The Air - Idle Animation",
+                "id": 124377358636047
+            },
+            {
+                "name": "Floating & Hovering In The Air - Walk Animation",
+                "id": 119786323122017
+            },
+            {
+                "name": "Floating & Hovering In The Air - Run Animation",
+                "id": 129278715401446
+            },
+            {
+                "name": "Floating & Hovering In The Air - Jump Animation",
+                "id": 112005766742735
+            },
+            {
+                "name": "Floating & Hovering In The Air - Fall Animation",
+                "id": 72058760380261
+            },
+            {
+                "name": "Floating & Hovering In The Air - Climb Animation",
+                "id": 106619418917040
+            },
+            {
+                "name": "Floating & Hovering In The Air - Swim Animation",
+                "id": 94244427859958
+            }
+        ]
+    },
+    "300000000000013": {
+        "name": "Underwater Siren Mermaid",
+        "animations": [
+            {
+                "name": "Underwater Siren Mermaid - Idle Animation",
+                "id": 87742049626667
+            },
+            {
+                "name": "Underwater Siren Mermaid - Walk Animation",
+                "id": 139341244827854
+            },
+            {
+                "name": "Underwater Siren Mermaid - Run Animation",
+                "id": 73336016052986
+            },
+            {
+                "name": "Underwater Siren Mermaid - Jump Animation",
+                "id": 75942009951199
+            },
+            {
+                "name": "Underwater Siren Mermaid - Fall Animation",
+                "id": 70703952625242
+            },
+            {
+                "name": "Underwater Siren Mermaid - Climb Animation",
+                "id": 102631234037365
+            },
+            {
+                "name": "Underwater Siren Mermaid - Swim Animation",
+                "id": 135995507444253
+            }
+        ]
+    },
+    "300000000000014": {
+        "name": "Riding On My Bike",
+        "animations": [
+            {
+                "name": "Riding On My Bike - Idle Animation",
+                "id": 95325278559791
+            },
+            {
+                "name": "Riding On My Bike - Walk Animation",
+                "id": 93570377820495
+            },
+            {
+                "name": "Riding On My Bike - Run Animation",
+                "id": 73184418176779
+            },
+            {
+                "name": "Riding On My Bike - Jump Animation",
+                "id": 86465002608207
+            },
+            {
+                "name": "Riding On My Bike - Fall Animation",
+                "id": 133447118806772
+            },
+            {
+                "name": "Riding On My Bike - Climb Animation",
+                "id": 123731540239693
+            },
+            {
+                "name": "Riding On My Bike - Swim Animation",
+                "id": 137128132254475
+            }
+        ]
+    },
+    "300000000000015": {
+        "name": "Effortless Aura",
+        "animations": [
+            {
+                "name": "Effortless Aura - Idle Animation",
+                "id": 106390953994044
+            },
+            {
+                "name": "Effortless Aura - Walk Animation",
+                "id": 111484087971615
+            },
+            {
+                "name": "Effortless Aura - Run Animation",
+                "id": 112515971043909
+            },
+            {
+                "name": "Effortless Aura - Jump Animation",
+                "id": 89547925261998
+            },
+            {
+                "name": "Effortless Aura - Fall Animation",
+                "id": 135065867268215
+            },
+            {
+                "name": "Effortless Aura - Climb Animation",
+                "id": 116904502538281
+            },
+            {
+                "name": "Effortless Aura - Swim Animation",
+                "id": 133821165523889
+            }
+        ]
+    },
+    "300000000000016": {
+        "name": "Bicyclist / Bike",
+        "animations": [
+            {
+                "name": "Bicyclist / Bike - Idle Animation",
+                "id": 110301614683999
+            },
+            {
+                "name": "Bicyclist / Bike - Walk Animation",
+                "id": 78201729008814
+            },
+            {
+                "name": "Bicyclist / Bike - Run Animation",
+                "id": 82563400820481
+            },
+            {
+                "name": "Bicyclist / Bike - Jump Animation",
+                "id": 107759406184171
+            },
+            {
+                "name": "Bicyclist / Bike - Fall Animation",
+                "id": 116348378285841
+            },
+            {
+                "name": "Bicyclist / Bike - Climb Animation",
+                "id": 106713991255001
+            },
+            {
+                "name": "Bicyclist / Bike - Swim Animation",
+                "id": 77327275394482
+            }
+        ]
+    },
+    "300000000000017": {
+        "name": "Cute Sit",
+        "animations": [
+            {
+                "name": "Cute Sit - Idle Animation",
+                "id": 110542674051174
+            },
+            {
+                "name": "Cute Sit - Walk Animation",
+                "id": 118167050072619
+            },
+            {
+                "name": "Cute Sit - Run Animation",
+                "id": 113254670339077
+            },
+            {
+                "name": "Cute Sit - Jump Animation",
+                "id": 124327113511763
+            },
+            {
+                "name": "Cute Sit - Fall Animation",
+                "id": 99664258493491
+            },
+            {
+                "name": "Cute Sit - Climb Animation",
+                "id": 125102831404256
+            },
+            {
+                "name": "Cute Sit - Swim Animation",
+                "id": 112149520105094
+            }
+        ]
+    },
+    "300000000000018": {
+        "name": "Cute Bouncy",
+        "animations": [
+            {
+                "name": "Cute Bouncy - Idle Animation",
+                "id": 112758171987743
+            },
+            {
+                "name": "Cute Bouncy - Walk Animation",
+                "id": 105398643971664
+            },
+            {
+                "name": "Cute Bouncy - Run Animation",
+                "id": 81980688988481
+            },
+            {
+                "name": "Cute Bouncy - Jump Animation",
+                "id": 95845383984913
+            },
+            {
+                "name": "Cute Bouncy - Fall Animation",
+                "id": 91206221270256
+            },
+            {
+                "name": "Cute Bouncy - Climb Animation",
+                "id": 77455242814172
+            },
+            {
+                "name": "Cute Bouncy - Swim Animation",
+                "id": 137674505873151
+            }
+        ]
+    },
+    "300000000000019": {
+        "name": "Astronaut",
+        "animations": [
+            {
+                "name": "Astronaut - Idle Animation",
+                "id": 891621366
+            },
+            {
+                "name": "Astronaut - Walk Animation",
+                "id": 891667138
+            },
+            {
+                "name": "Astronaut - Run Animation",
+                "id": 10921039308
+            },
+            {
+                "name": "Astronaut - Jump Animation",
+                "id": 891627522
+            },
+            {
+                "name": "Astronaut - Fall Animation",
+                "id": 891617961
+            },
+            {
+                "name": "Astronaut - Climb Animation",
+                "id": 10921032124
+            },
+            {
+                "name": "Astronaut - Swim Animation",
+                "id": 891663592
+            }
+        ],
+        "icon": 1090133099
+    },
+    "300000000000020": {
+        "name": "Bold",
+        "animations": [
+            {
+                "name": "Bold - Idle Animation",
+                "id": 16738333868
+            },
+            {
+                "name": "Bold - Walk Animation",
+                "id": 16738340646
+            },
+            {
+                "name": "Bold - Run Animation",
+                "id": 16738337225
+            },
+            {
+                "name": "Bold - Jump Animation",
+                "id": 16738336650
+            },
+            {
+                "name": "Bold - Fall Animation",
+                "id": 16738333171
+            },
+            {
+                "name": "Bold - Climb Animation",
+                "id": 16738332169
+            },
+            {
+                "name": "Bold - Swim Animation",
+                "id": 16738339158
+            }
+        ],
+        "icon": 16744209868
+    },
+    "300000000000021": {
+        "name": "Bubbly",
+        "animations": [
+            {
+                "name": "Bubbly - Idle Animation",
+                "id": 910004836
+            },
+            {
+                "name": "Bubbly - Walk Animation",
+                "id": 910034870
+            },
+            {
+                "name": "Bubbly - Run Animation",
+                "id": 10921057244
+            },
+            {
+                "name": "Bubbly - Jump Animation",
+                "id": 910016857
+            },
+            {
+                "name": "Bubbly - Fall Animation",
+                "id": 910001910
+            },
+            {
+                "name": "Bubbly - Swim Animation",
+                "id": 910028158
+            }
+        ],
+        "icon": 1018553897
+    },
+    "300000000000022": {
+        "name": "Cartoony",
+        "animations": [
+            {
+                "name": "Cartoony - Idle Animation",
+                "id": 742637544
+            },
+            {
+                "name": "Cartoony - Walk Animation",
+                "id": 742640026
+            },
+            {
+                "name": "Cartoony - Run Animation",
+                "id": 10921076136
+            },
+            {
+                "name": "Cartoony - Jump Animation",
+                "id": 742637942
+            },
+            {
+                "name": "Cartoony - Fall Animation",
+                "id": 742637151
+            },
+            {
+                "name": "Cartoony - Climb Animation",
+                "id": 742636889
+            },
+            {
+                "name": "Cartoony - Swim Animation",
+                "id": 10921079380
+            }
+        ],
+        "icon": 837011741
+    },
+    "300000000000023": {
+        "name": "Elder",
+        "animations": [
+            {
+                "name": "Elder - Idle Animation",
+                "id": 10921101664
+            },
+            {
+                "name": "Elder - Walk Animation",
+                "id": 10921111375
+            },
+            {
+                "name": "Elder - Run Animation",
+                "id": 10921104374
+            },
+            {
+                "name": "Elder - Jump Animation",
+                "id": 10921107367
+            },
+            {
+                "name": "Elder - Fall Animation",
+                "id": 10921105765
+            },
+            {
+                "name": "Elder - Climb Animation",
+                "id": 845392038
+            },
+            {
+                "name": "Elder - Swim Animation",
+                "id": 10921108971
+            }
+        ],
+        "icon": 892268340
+    },
+    "300000000000024": {
+        "name": "Knight",
+        "animations": [
+            {
+                "name": "Knight - Idle Animation",
+                "id": 657595757
+            },
+            {
+                "name": "Knight - Walk Animation",
+                "id": 10921127095
+            },
+            {
+                "name": "Knight - Run Animation",
+                "id": 10921121197
+            },
+            {
+                "name": "Knight - Jump Animation",
+                "id": 910016857
+            },
+            {
+                "name": "Knight - Fall Animation",
+                "id": 10921122579
+            },
+            {
+                "name": "Knight - Climb Animation",
+                "id": 10921125160
+            },
+            {
+                "name": "Knight - Swim Animation",
+                "id": 10921125160
+            }
+        ],
+        "icon": 734327140
+    },
+    "300000000000025": {
+        "name": "Levitation",
+        "animations": [
+            {
+                "name": "Levitation - Idle Animation",
+                "id": 616006778
+            },
+            {
+                "name": "Levitation - Walk Animation",
+                "id": 616013216
+            },
+            {
+                "name": "Levitation - Run Animation",
+                "id": 616010382
+            },
+            {
+                "name": "Levitation - Jump Animation",
+                "id": 616008936
+            },
+            {
+                "name": "Levitation - Fall Animation",
+                "id": 616005863
+            },
+            {
+                "name": "Levitation - Climb Animation",
+                "id": 10921132092
+            },
+            {
+                "name": "Levitation - Swim Animation",
+                "id": 10921138209
+            }
+        ],
+        "icon": 619542203
+    },
+    "300000000000026": {
+        "name": "Mage",
+        "animations": [
+            {
+                "name": "Mage - Idle Animation",
+                "id": 707742142
+            },
+            {
+                "name": "Mage - Walk Animation",
+                "id": 707897309
+            },
+            {
+                "name": "Mage - Run Animation",
+                "id": 10921148209
+            },
+            {
+                "name": "Mage - Jump Animation",
+                "id": 10921149743
+            },
+            {
+                "name": "Mage - Fall Animation",
+                "id": 707829716
+            },
+            {
+                "name": "Mage - Climb Animation",
+                "id": 707826056
+            },
+            {
+                "name": "Mage - Swim Animation",
+                "id": 707876443
+            }
+        ],
+        "icon": 754637456
+    },
+    "300000000000027": {
+        "name": "Ninja",
+        "animations": [
+            {
+                "name": "Ninja - Idle Animation",
+                "id": 656117400
+            },
+            {
+                "name": "Ninja - Walk Animation",
+                "id": 656121766
+            },
+            {
+                "name": "Ninja - Run Animation",
+                "id": 656118852
+            },
+            {
+                "name": "Ninja - Jump Animation",
+                "id": 656117878
+            },
+            {
+                "name": "Ninja - Fall Animation",
+                "id": 656115606
+            },
+            {
+                "name": "Ninja - Climb Animation",
+                "id": 656114359
+            },
+            {
+                "name": "Ninja - Swim Animation",
+                "id": 656118341
+            }
+        ],
+        "icon": 658832408
+    },
+    "300000000000028": {
+        "name": "OldSchool",
+        "animations": [
+            {
+                "name": "OldSchool - Idle Animation",
+                "id": 10921230744
+            },
+            {
+                "name": "OldSchool - Walk Animation",
+                "id": 10921244891
+            },
+            {
+                "name": "OldSchool - Run Animation",
+                "id": 10921240218
+            },
+            {
+                "name": "OldSchool - Jump Animation",
+                "id": 10921242013
+            },
+            {
+                "name": "OldSchool - Fall Animation",
+                "id": 10921241244
+            },
+            {
+                "name": "OldSchool - Climb Animation",
+                "id": 10921229866
+            },
+            {
+                "name": "OldSchool - Swim Animation",
+                "id": 10921243048
+            }
+        ],
+        "icon": 5319922112
+    },
+    "300000000000029": {
+        "name": "Pirate",
+        "animations": [
+            {
+                "name": "Pirate - Idle Animation",
+                "id": 750781874
+            },
+            {
+                "name": "Pirate - Walk Animation",
+                "id": 750785693
+            },
+            {
+                "name": "Pirate - Run Animation",
+                "id": 750783738
+            },
+            {
+                "name": "Pirate - Jump Animation",
+                "id": 750782230
+            },
+            {
+                "name": "Pirate - Fall Animation",
+                "id": 750780242
+            },
+            {
+                "name": "Pirate - Climb Animation",
+                "id": 750779899
+            },
+            {
+                "name": "Pirate - Swim Animation",
+                "id": 750784579
+            }
+        ],
+        "icon": 837024662
+    },
+    "300000000000030": {
+        "name": "Robot",
+        "animations": [
+            {
+                "name": "Robot - Idle Animation",
+                "id": 616088211
+            },
+            {
+                "name": "Robot - Walk Animation",
+                "id": 616095330
+            },
+            {
+                "name": "Robot - Run Animation",
+                "id": 10921250460
+            },
+            {
+                "name": "Robot - Jump Animation",
+                "id": 616090535
+            },
+            {
+                "name": "Robot - Fall Animation",
+                "id": 616087089
+            },
+            {
+                "name": "Robot - Climb Animation",
+                "id": 616086039
+            },
+            {
+                "name": "Robot - Swim Animation",
+                "id": 10921253142
+            }
+        ],
+        "icon": 619521748
+    },
+    "300000000000031": {
+        "name": "Stylish",
+        "animations": [
+            {
+                "name": "Stylish - Idle Animation",
+                "id": 616136790
+            },
+            {
+                "name": "Stylish - Walk Animation",
+                "id": 616146177
+            },
+            {
+                "name": "Stylish - Run Animation",
+                "id": 10921276116
+            },
+            {
+                "name": "Stylish - Jump Animation",
+                "id": 616139451
+            },
+            {
+                "name": "Stylish - Fall Animation",
+                "id": 616134815
+            },
+            {
+                "name": "Stylish - Climb Animation",
+                "id": 10921271391
+            },
+            {
+                "name": "Stylish - Swim Animation",
+                "id": 10921281000
+            }
+        ],
+        "icon": 619511648
+    },
+    "300000000000032": {
+        "name": "SuperHero",
+        "animations": [
+            {
+                "name": "SuperHero - Idle Animation",
+                "id": 10921288909
+            },
+            {
+                "name": "SuperHero - Walk Animation",
+                "id": 10921298616
+            },
+            {
+                "name": "SuperHero - Run Animation",
+                "id": 10921291831
+            },
+            {
+                "name": "SuperHero - Jump Animation",
+                "id": 10921294559
+            },
+            {
+                "name": "SuperHero - Fall Animation",
+                "id": 10921293373
+            },
+            {
+                "name": "SuperHero - Climb Animation",
+                "id": 10921286911
+            },
+            {
+                "name": "SuperHero - Swim Animation",
+                "id": 10921295495
+            }
+        ],
+        "icon": 619528125
+    },
+    "300000000000033": {
+        "name": "Toy",
+        "animations": [
+            {
+                "name": "Toy - Idle Animation",
+                "id": 782841498
+            },
+            {
+                "name": "Toy - Walk Animation",
+                "id": 782843345
+            },
+            {
+                "name": "Toy - Run Animation",
+                "id": 10921306285
+            },
+            {
+                "name": "Toy - Jump Animation",
+                "id": 10921308158
+            },
+            {
+                "name": "Toy - Fall Animation",
+                "id": 782846423
+            },
+            {
+                "name": "Toy - Climb Animation",
+                "id": 10921300839
+            },
+            {
+                "name": "Toy - Swim Animation",
+                "id": 10921309319
+            }
+        ],
+        "icon": 973771666
+    },
+    "300000000000034": {
+        "name": "Vampire",
+        "animations": [
+            {
+                "name": "Vampire - Idle Animation",
+                "id": 1083445855
+            },
+            {
+                "name": "Vampire - Walk Animation",
+                "id": 1083473930
+            },
+            {
+                "name": "Vampire - Run Animation",
+                "id": 10921320299
+            },
+            {
+                "name": "Vampire - Jump Animation",
+                "id": 1083455352
+            },
+            {
+                "name": "Vampire - Fall Animation",
+                "id": 1083443587
+            },
+            {
+                "name": "Vampire - Climb Animation",
+                "id": 1083439238
+            },
+            {
+                "name": "Vampire - Swim Animation",
+                "id": 10921324408
+            }
+        ],
+        "icon": 1113742618
+    },
+    "300000000000035": {
+        "name": "Werewolf",
+        "animations": [
+            {
+                "name": "Werewolf - Idle Animation",
+                "id": 1083195517
+            },
+            {
+                "name": "Werewolf - Walk Animation",
+                "id": 1083178339
+            },
+            {
+                "name": "Werewolf - Run Animation",
+                "id": 10921336997
+            },
+            {
+                "name": "Werewolf - Jump Animation",
+                "id": 1083218792
+            },
+            {
+                "name": "Werewolf - Fall Animation",
+                "id": 1083189019
+            },
+            {
+                "name": "Werewolf - Climb Animation",
+                "id": 10921329322
+            },
+            {
+                "name": "Werewolf - Swim Animation",
+                "id": 10921340419
+            }
+        ],
+        "icon": 1113752682
+    },
+    "300000000000036": {
+        "name": "Sports (Adidas)",
+        "animations": [
+            {
+                "name": "Sports (Adidas) - Idle Animation",
+                "id": 18537376492
+            },
+            {
+                "name": "Sports (Adidas) - Walk Animation",
+                "id": 18537392113
+            },
+            {
+                "name": "Sports (Adidas) - Run Animation",
+                "id": 18537384940
+            },
+            {
+                "name": "Sports (Adidas) - Jump Animation",
+                "id": 18537380791
+            },
+            {
+                "name": "Sports (Adidas) - Fall Animation",
+                "id": 18537367238
+            },
+            {
+                "name": "Sports (Adidas) - Climb Animation",
+                "id": 18537363391
+            },
+            {
+                "name": "Sports (Adidas) - Swim Animation",
+                "id": 18537389531
+            }
+        ],
+        "icon": 18538150608
+    },
+    "300000000000037": {
+        "name": "Wicked Dancing",
+        "animations": [
+            {
+                "name": "Wicked Dancing - Idle Animation",
+                "id": 82682578794949
+            },
+            {
+                "name": "Wicked Dancing - Walk Animation",
+                "id": 73718308412641
+            },
+            {
+                "name": "Wicked Dancing - Run Animation",
+                "id": 135515454877967
+            },
+            {
+                "name": "Wicked Dancing - Jump Animation",
+                "id": 78508480717326
+            },
+            {
+                "name": "Wicked Dancing - Fall Animation",
+                "id": 78147885297412
+            },
+            {
+                "name": "Wicked Dancing - Climb Animation",
+                "id": 129447497744818
+            },
+            {
+                "name": "Wicked Dancing - Swim Animation",
+                "id": 110657013921774
+            }
+        ]
+    },
+    "300000000000038": {
+        "name": "Adidas Aura",
+        "animations": [
+            {
+                "name": "Adidas Aura - Idle Animation",
+                "id": 73137983344853
+            },
+            {
+                "name": "Adidas Aura - Walk Animation",
+                "id": 83842218823011
+            },
+            {
+                "name": "Adidas Aura - Run Animation",
+                "id": 118320322718866
+            },
+            {
+                "name": "Adidas Aura - Jump Animation",
+                "id": 109996626521204
+            },
+            {
+                "name": "Adidas Aura - Fall Animation",
+                "id": 95603166884636
+            },
+            {
+                "name": "Adidas Aura - Climb Animation",
+                "id": 97824616490448
+            },
+            {
+                "name": "Adidas Aura - Swim Animation",
+                "id": 134530128383903
+            }
+        ]
+    },
     "212752808249238": {
         "name": "Divine Praying Angel Animation",
         "animations": [
@@ -23605,1289 +24906,6 @@
             {
                 "name": "KATSEYE Swim",
                 "id": 87465102258861
-            }
-        ]
-    },
-    "300000000000000": {
-        "name": "Adidas Community",
-        "animations": [
-            {
-                "name": "Adidas Community - Idle Animation",
-                "id": 126354114956642
-            },
-            {
-                "name": "Adidas Community - Walk Animation",
-                "id": 122150855457006
-            },
-            {
-                "name": "Adidas Community - Run Animation",
-                "id": 82598234841035
-            },
-            {
-                "name": "Adidas Community - Jump Animation",
-                "id": 75290611992385
-            },
-            {
-                "name": "Adidas Community - Fall Animation",
-                "id": 98600215928904
-            },
-            {
-                "name": "Adidas Community - Climb Animation",
-                "id": 88763136693023
-            },
-            {
-                "name": "Adidas Community - Swim Animation",
-                "id": 133308483266208
-            }
-        ]
-    },
-    "300000000000001": {
-        "name": "Glow Motion",
-        "animations": [
-            {
-                "name": "Glow Motion - Idle Animation",
-                "id": 72213510878866
-            },
-            {
-                "name": "Glow Motion - Walk Animation",
-                "id": 124733969277188
-            },
-            {
-                "name": "Glow Motion - Run Animation",
-                "id": 91745899537026
-            },
-            {
-                "name": "Glow Motion - Jump Animation",
-                "id": 126137138096765
-            },
-            {
-                "name": "Glow Motion - Fall Animation",
-                "id": 76868289213402
-            },
-            {
-                "name": "Glow Motion - Climb Animation",
-                "id": 122281742555667
-            },
-            {
-                "name": "Glow Motion - Swim Animation",
-                "id": 78813763153341
-            }
-        ]
-    },
-    "300000000000002": {
-        "name": "Billie Eilish",
-        "animations": [
-            {
-                "name": "Billie Eilish - Idle Animation",
-                "id": 82009039247070
-            },
-            {
-                "name": "Billie Eilish - Walk Animation",
-                "id": 74056522836252
-            },
-            {
-                "name": "Billie Eilish - Run Animation",
-                "id": 107895705891639
-            },
-            {
-                "name": "Billie Eilish - Jump Animation",
-                "id": 114806832298003
-            },
-            {
-                "name": "Billie Eilish - Fall Animation",
-                "id": 132771121298158
-            },
-            {
-                "name": "Billie Eilish - Climb Animation",
-                "id": 95937554524959
-            },
-            {
-                "name": "Billie Eilish - Swim Animation",
-                "id": 78340083978503
-            }
-        ]
-    },
-    "300000000000003": {
-        "name": "Handstand Animation Pack",
-        "animations": [
-            {
-                "name": "Handstand Animation Pack - Idle Animation",
-                "id": 119718678619654
-            },
-            {
-                "name": "Handstand Animation Pack - Walk Animation",
-                "id": 117765825848453
-            },
-            {
-                "name": "Handstand Animation Pack - Run Animation",
-                "id": 99875831172373
-            },
-            {
-                "name": "Handstand Animation Pack - Jump Animation",
-                "id": 128965057150875
-            },
-            {
-                "name": "Handstand Animation Pack - Fall Animation",
-                "id": 111831828617770
-            },
-            {
-                "name": "Handstand Animation Pack - Climb Animation",
-                "id": 112505979110458
-            },
-            {
-                "name": "Handstand Animation Pack - Swim Animation",
-                "id": 82730580219519
-            }
-        ]
-    },
-    "300000000000004": {
-        "name": "Dog Bunny Animation Pack",
-        "animations": [
-            {
-                "name": "Dog Bunny Animation Pack - Idle Animation",
-                "id": 117578052856086
-            },
-            {
-                "name": "Dog Bunny Animation Pack - Walk Animation",
-                "id": 93195124672420
-            },
-            {
-                "name": "Dog Bunny Animation Pack - Run Animation",
-                "id": 80744014032460
-            },
-            {
-                "name": "Dog Bunny Animation Pack - Jump Animation",
-                "id": 91689511109384
-            },
-            {
-                "name": "Dog Bunny Animation Pack - Fall Animation",
-                "id": 138712913675658
-            },
-            {
-                "name": "Dog Bunny Animation Pack - Climb Animation",
-                "id": 139564919712366
-            },
-            {
-                "name": "Dog Bunny Animation Pack - Swim Animation",
-                "id": 88811196999845
-            }
-        ]
-    },
-    "300000000000005": {
-        "name": "Hoverboard Animation Pack",
-        "animations": [
-            {
-                "name": "Hoverboard Animation Pack - Idle Animation",
-                "id": 139054058038226
-            },
-            {
-                "name": "Hoverboard Animation Pack - Walk Animation",
-                "id": 97065248057640
-            },
-            {
-                "name": "Hoverboard Animation Pack - Run Animation",
-                "id": 89532448464946
-            },
-            {
-                "name": "Hoverboard Animation Pack - Jump Animation",
-                "id": 102860697251632
-            },
-            {
-                "name": "Hoverboard Animation Pack - Fall Animation",
-                "id": 90353939293034
-            },
-            {
-                "name": "Hoverboard Animation Pack - Climb Animation",
-                "id": 128257589957243
-            },
-            {
-                "name": "Hoverboard Animation Pack - Swim Animation",
-                "id": 133596372835000
-            }
-        ]
-    },
-    "300000000000006": {
-        "name": "Sprinter Animation Pack",
-        "animations": [
-            {
-                "name": "Sprinter Animation Pack - Idle Animation",
-                "id": 129794821448421
-            },
-            {
-                "name": "Sprinter Animation Pack - Walk Animation",
-                "id": 102423799534100
-            },
-            {
-                "name": "Sprinter Animation Pack - Run Animation",
-                "id": 120741731730819
-            },
-            {
-                "name": "Sprinter Animation Pack - Jump Animation",
-                "id": 139321637247351
-            },
-            {
-                "name": "Sprinter Animation Pack - Fall Animation",
-                "id": 76408670644983
-            },
-            {
-                "name": "Sprinter Animation Pack - Climb Animation",
-                "id": 123076402162196
-            },
-            {
-                "name": "Sprinter Animation Pack - Swim Animation",
-                "id": 94399444567795
-            }
-        ]
-    },
-    "300000000000007": {
-        "name": "Fighter Animation Pack",
-        "animations": [
-            {
-                "name": "Fighter Animation Pack - Idle Animation",
-                "id": 88016093360951
-            },
-            {
-                "name": "Fighter Animation Pack - Walk Animation",
-                "id": 82280787041246
-            },
-            {
-                "name": "Fighter Animation Pack - Run Animation",
-                "id": 74327884548186
-            },
-            {
-                "name": "Fighter Animation Pack - Jump Animation",
-                "id": 131675266554473
-            },
-            {
-                "name": "Fighter Animation Pack - Fall Animation",
-                "id": 134961140457349
-            },
-            {
-                "name": "Fighter Animation Pack - Climb Animation",
-                "id": 136141293963563
-            },
-            {
-                "name": "Fighter Animation Pack - Swim Animation",
-                "id": 96909954438932
-            }
-        ]
-    },
-    "300000000000008": {
-        "name": "Moonwalker Animation Pack",
-        "animations": [
-            {
-                "name": "Moonwalker Animation Pack - Idle Animation",
-                "id": 92710716765283
-            },
-            {
-                "name": "Moonwalker Animation Pack - Walk Animation",
-                "id": 114763801999339
-            },
-            {
-                "name": "Moonwalker Animation Pack - Run Animation",
-                "id": 101531926378460
-            },
-            {
-                "name": "Moonwalker Animation Pack - Jump Animation",
-                "id": 104533631513747
-            },
-            {
-                "name": "Moonwalker Animation Pack - Fall Animation",
-                "id": 70566441403811
-            },
-            {
-                "name": "Moonwalker Animation Pack - Climb Animation",
-                "id": 79306475091221
-            },
-            {
-                "name": "Moonwalker Animation Pack - Swim Animation",
-                "id": 98563274763262
-            }
-        ]
-    },
-    "300000000000009": {
-        "name": "Bruiser Animation Pack",
-        "animations": [
-            {
-                "name": "Bruiser Animation Pack - Idle Animation",
-                "id": 91486182566842
-            },
-            {
-                "name": "Bruiser Animation Pack - Walk Animation",
-                "id": 110119880881706
-            },
-            {
-                "name": "Bruiser Animation Pack - Run Animation",
-                "id": 136670254583990
-            },
-            {
-                "name": "Bruiser Animation Pack - Jump Animation",
-                "id": 110949855044563
-            },
-            {
-                "name": "Bruiser Animation Pack - Fall Animation",
-                "id": 114388482037548
-            },
-            {
-                "name": "Bruiser Animation Pack - Climb Animation",
-                "id": 113866830860789
-            },
-            {
-                "name": "Bruiser Animation Pack - Swim Animation",
-                "id": 113544566765768
-            }
-        ]
-    },
-    "300000000000010": {
-        "name": "Angel Animation Pack",
-        "animations": [
-            {
-                "name": "Angel Animation Pack - Idle Animation",
-                "id": 119395643858584
-            },
-            {
-                "name": "Angel Animation Pack - Walk Animation",
-                "id": 129380445505644
-            },
-            {
-                "name": "Angel Animation Pack - Run Animation",
-                "id": 110540935388974
-            },
-            {
-                "name": "Angel Animation Pack - Jump Animation",
-                "id": 117028353539960
-            },
-            {
-                "name": "Angel Animation Pack - Fall Animation",
-                "id": 137098035754306
-            },
-            {
-                "name": "Angel Animation Pack - Climb Animation",
-                "id": 72948750270080
-            },
-            {
-                "name": "Angel Animation Pack - Swim Animation",
-                "id": 125903638047924
-            }
-        ]
-    },
-    "300000000000011": {
-        "name": "Aura Animation Pack",
-        "animations": [
-            {
-                "name": "Aura Animation Pack - Idle Animation",
-                "id": 103073671112449
-            },
-            {
-                "name": "Aura Animation Pack - Walk Animation",
-                "id": 107974792006222
-            },
-            {
-                "name": "Aura Animation Pack - Run Animation",
-                "id": 126690709549004
-            },
-            {
-                "name": "Aura Animation Pack - Jump Animation",
-                "id": 131932286655764
-            },
-            {
-                "name": "Aura Animation Pack - Fall Animation",
-                "id": 74746323396145
-            },
-            {
-                "name": "Aura Animation Pack - Climb Animation",
-                "id": 103443334658077
-            },
-            {
-                "name": "Aura Animation Pack - Swim Animation",
-                "id": 128846499821276
-            }
-        ]
-    },
-    "300000000000012": {
-        "name": "Floating & Hovering In The Air",
-        "animations": [
-            {
-                "name": "Floating & Hovering In The Air - Idle Animation",
-                "id": 124377358636047
-            },
-            {
-                "name": "Floating & Hovering In The Air - Walk Animation",
-                "id": 119786323122017
-            },
-            {
-                "name": "Floating & Hovering In The Air - Run Animation",
-                "id": 129278715401446
-            },
-            {
-                "name": "Floating & Hovering In The Air - Jump Animation",
-                "id": 112005766742735
-            },
-            {
-                "name": "Floating & Hovering In The Air - Fall Animation",
-                "id": 72058760380261
-            },
-            {
-                "name": "Floating & Hovering In The Air - Climb Animation",
-                "id": 106619418917040
-            },
-            {
-                "name": "Floating & Hovering In The Air - Swim Animation",
-                "id": 94244427859958
-            }
-        ]
-    },
-    "300000000000013": {
-        "name": "Underwater Siren Mermaid",
-        "animations": [
-            {
-                "name": "Underwater Siren Mermaid - Idle Animation",
-                "id": 87742049626667
-            },
-            {
-                "name": "Underwater Siren Mermaid - Walk Animation",
-                "id": 139341244827854
-            },
-            {
-                "name": "Underwater Siren Mermaid - Run Animation",
-                "id": 73336016052986
-            },
-            {
-                "name": "Underwater Siren Mermaid - Jump Animation",
-                "id": 75942009951199
-            },
-            {
-                "name": "Underwater Siren Mermaid - Fall Animation",
-                "id": 70703952625242
-            },
-            {
-                "name": "Underwater Siren Mermaid - Climb Animation",
-                "id": 102631234037365
-            },
-            {
-                "name": "Underwater Siren Mermaid - Swim Animation",
-                "id": 135995507444253
-            }
-        ]
-    },
-    "300000000000014": {
-        "name": "Riding On My Bike",
-        "animations": [
-            {
-                "name": "Riding On My Bike - Idle Animation",
-                "id": 95325278559791
-            },
-            {
-                "name": "Riding On My Bike - Walk Animation",
-                "id": 93570377820495
-            },
-            {
-                "name": "Riding On My Bike - Run Animation",
-                "id": 73184418176779
-            },
-            {
-                "name": "Riding On My Bike - Jump Animation",
-                "id": 86465002608207
-            },
-            {
-                "name": "Riding On My Bike - Fall Animation",
-                "id": 133447118806772
-            },
-            {
-                "name": "Riding On My Bike - Climb Animation",
-                "id": 123731540239693
-            },
-            {
-                "name": "Riding On My Bike - Swim Animation",
-                "id": 137128132254475
-            }
-        ]
-    },
-    "300000000000015": {
-        "name": "Effortless Aura",
-        "animations": [
-            {
-                "name": "Effortless Aura - Idle Animation",
-                "id": 106390953994044
-            },
-            {
-                "name": "Effortless Aura - Walk Animation",
-                "id": 111484087971615
-            },
-            {
-                "name": "Effortless Aura - Run Animation",
-                "id": 112515971043909
-            },
-            {
-                "name": "Effortless Aura - Jump Animation",
-                "id": 89547925261998
-            },
-            {
-                "name": "Effortless Aura - Fall Animation",
-                "id": 135065867268215
-            },
-            {
-                "name": "Effortless Aura - Climb Animation",
-                "id": 116904502538281
-            },
-            {
-                "name": "Effortless Aura - Swim Animation",
-                "id": 133821165523889
-            }
-        ]
-    },
-    "300000000000016": {
-        "name": "Bicyclist / Bike",
-        "animations": [
-            {
-                "name": "Bicyclist / Bike - Idle Animation",
-                "id": 110301614683999
-            },
-            {
-                "name": "Bicyclist / Bike - Walk Animation",
-                "id": 78201729008814
-            },
-            {
-                "name": "Bicyclist / Bike - Run Animation",
-                "id": 82563400820481
-            },
-            {
-                "name": "Bicyclist / Bike - Jump Animation",
-                "id": 107759406184171
-            },
-            {
-                "name": "Bicyclist / Bike - Fall Animation",
-                "id": 116348378285841
-            },
-            {
-                "name": "Bicyclist / Bike - Climb Animation",
-                "id": 106713991255001
-            },
-            {
-                "name": "Bicyclist / Bike - Swim Animation",
-                "id": 77327275394482
-            }
-        ]
-    },
-    "300000000000017": {
-        "name": "Cute Sit",
-        "animations": [
-            {
-                "name": "Cute Sit - Idle Animation",
-                "id": 110542674051174
-            },
-            {
-                "name": "Cute Sit - Walk Animation",
-                "id": 118167050072619
-            },
-            {
-                "name": "Cute Sit - Run Animation",
-                "id": 113254670339077
-            },
-            {
-                "name": "Cute Sit - Jump Animation",
-                "id": 124327113511763
-            },
-            {
-                "name": "Cute Sit - Fall Animation",
-                "id": 99664258493491
-            },
-            {
-                "name": "Cute Sit - Climb Animation",
-                "id": 125102831404256
-            },
-            {
-                "name": "Cute Sit - Swim Animation",
-                "id": 112149520105094
-            }
-        ]
-    },
-    "300000000000018": {
-        "name": "Cute Bouncy",
-        "animations": [
-            {
-                "name": "Cute Bouncy - Idle Animation",
-                "id": 112758171987743
-            },
-            {
-                "name": "Cute Bouncy - Walk Animation",
-                "id": 105398643971664
-            },
-            {
-                "name": "Cute Bouncy - Run Animation",
-                "id": 81980688988481
-            },
-            {
-                "name": "Cute Bouncy - Jump Animation",
-                "id": 95845383984913
-            },
-            {
-                "name": "Cute Bouncy - Fall Animation",
-                "id": 91206221270256
-            },
-            {
-                "name": "Cute Bouncy - Climb Animation",
-                "id": 77455242814172
-            },
-            {
-                "name": "Cute Bouncy - Swim Animation",
-                "id": 137674505873151
-            }
-        ]
-    },
-    "300000000000019": {
-        "name": "Astronaut",
-        "animations": [
-            {
-                "name": "Astronaut - Idle Animation",
-                "id": 891621366
-            },
-            {
-                "name": "Astronaut - Walk Animation",
-                "id": 891667138
-            },
-            {
-                "name": "Astronaut - Run Animation",
-                "id": 10921039308
-            },
-            {
-                "name": "Astronaut - Jump Animation",
-                "id": 891627522
-            },
-            {
-                "name": "Astronaut - Fall Animation",
-                "id": 891617961
-            },
-            {
-                "name": "Astronaut - Climb Animation",
-                "id": 10921032124
-            },
-            {
-                "name": "Astronaut - Swim Animation",
-                "id": 891663592
-            }
-        ]
-    },
-    "300000000000020": {
-        "name": "Bold",
-        "animations": [
-            {
-                "name": "Bold - Idle Animation",
-                "id": 16738333868
-            },
-            {
-                "name": "Bold - Walk Animation",
-                "id": 16738340646
-            },
-            {
-                "name": "Bold - Run Animation",
-                "id": 16738337225
-            },
-            {
-                "name": "Bold - Jump Animation",
-                "id": 16738336650
-            },
-            {
-                "name": "Bold - Fall Animation",
-                "id": 16738333171
-            },
-            {
-                "name": "Bold - Climb Animation",
-                "id": 16738332169
-            },
-            {
-                "name": "Bold - Swim Animation",
-                "id": 16738339158
-            }
-        ]
-    },
-    "300000000000021": {
-        "name": "Bubbly",
-        "animations": [
-            {
-                "name": "Bubbly - Idle Animation",
-                "id": 910004836
-            },
-            {
-                "name": "Bubbly - Walk Animation",
-                "id": 910034870
-            },
-            {
-                "name": "Bubbly - Run Animation",
-                "id": 10921057244
-            },
-            {
-                "name": "Bubbly - Jump Animation",
-                "id": 910016857
-            },
-            {
-                "name": "Bubbly - Fall Animation",
-                "id": 910001910
-            },
-            {
-                "name": "Bubbly - Swim Animation",
-                "id": 910028158
-            }
-        ]
-    },
-    "300000000000022": {
-        "name": "Cartoony",
-        "animations": [
-            {
-                "name": "Cartoony - Idle Animation",
-                "id": 742637544
-            },
-            {
-                "name": "Cartoony - Walk Animation",
-                "id": 742640026
-            },
-            {
-                "name": "Cartoony - Run Animation",
-                "id": 10921076136
-            },
-            {
-                "name": "Cartoony - Jump Animation",
-                "id": 742637942
-            },
-            {
-                "name": "Cartoony - Fall Animation",
-                "id": 742637151
-            },
-            {
-                "name": "Cartoony - Climb Animation",
-                "id": 742636889
-            },
-            {
-                "name": "Cartoony - Swim Animation",
-                "id": 10921079380
-            }
-        ]
-    },
-    "300000000000023": {
-        "name": "Elder",
-        "animations": [
-            {
-                "name": "Elder - Idle Animation",
-                "id": 10921101664
-            },
-            {
-                "name": "Elder - Walk Animation",
-                "id": 10921111375
-            },
-            {
-                "name": "Elder - Run Animation",
-                "id": 10921104374
-            },
-            {
-                "name": "Elder - Jump Animation",
-                "id": 10921107367
-            },
-            {
-                "name": "Elder - Fall Animation",
-                "id": 10921105765
-            },
-            {
-                "name": "Elder - Climb Animation",
-                "id": 845392038
-            },
-            {
-                "name": "Elder - Swim Animation",
-                "id": 10921108971
-            }
-        ]
-    },
-    "300000000000024": {
-        "name": "Knight",
-        "animations": [
-            {
-                "name": "Knight - Idle Animation",
-                "id": 657595757
-            },
-            {
-                "name": "Knight - Walk Animation",
-                "id": 10921127095
-            },
-            {
-                "name": "Knight - Run Animation",
-                "id": 10921121197
-            },
-            {
-                "name": "Knight - Jump Animation",
-                "id": 910016857
-            },
-            {
-                "name": "Knight - Fall Animation",
-                "id": 10921122579
-            },
-            {
-                "name": "Knight - Climb Animation",
-                "id": 10921125160
-            },
-            {
-                "name": "Knight - Swim Animation",
-                "id": 10921125160
-            }
-        ]
-    },
-    "300000000000025": {
-        "name": "Levitation",
-        "animations": [
-            {
-                "name": "Levitation - Idle Animation",
-                "id": 616006778
-            },
-            {
-                "name": "Levitation - Walk Animation",
-                "id": 616013216
-            },
-            {
-                "name": "Levitation - Run Animation",
-                "id": 616010382
-            },
-            {
-                "name": "Levitation - Jump Animation",
-                "id": 616008936
-            },
-            {
-                "name": "Levitation - Fall Animation",
-                "id": 616005863
-            },
-            {
-                "name": "Levitation - Climb Animation",
-                "id": 10921132092
-            },
-            {
-                "name": "Levitation - Swim Animation",
-                "id": 10921138209
-            }
-        ]
-    },
-    "300000000000026": {
-        "name": "Mage",
-        "animations": [
-            {
-                "name": "Mage - Idle Animation",
-                "id": 707742142
-            },
-            {
-                "name": "Mage - Walk Animation",
-                "id": 707897309
-            },
-            {
-                "name": "Mage - Run Animation",
-                "id": 10921148209
-            },
-            {
-                "name": "Mage - Jump Animation",
-                "id": 10921149743
-            },
-            {
-                "name": "Mage - Fall Animation",
-                "id": 707829716
-            },
-            {
-                "name": "Mage - Climb Animation",
-                "id": 707826056
-            },
-            {
-                "name": "Mage - Swim Animation",
-                "id": 707876443
-            }
-        ]
-    },
-    "300000000000027": {
-        "name": "Ninja",
-        "animations": [
-            {
-                "name": "Ninja - Idle Animation",
-                "id": 656117400
-            },
-            {
-                "name": "Ninja - Walk Animation",
-                "id": 656121766
-            },
-            {
-                "name": "Ninja - Run Animation",
-                "id": 656118852
-            },
-            {
-                "name": "Ninja - Jump Animation",
-                "id": 656117878
-            },
-            {
-                "name": "Ninja - Fall Animation",
-                "id": 656115606
-            },
-            {
-                "name": "Ninja - Climb Animation",
-                "id": 656114359
-            },
-            {
-                "name": "Ninja - Swim Animation",
-                "id": 656118341
-            }
-        ]
-    },
-    "300000000000028": {
-        "name": "OldSchool",
-        "animations": [
-            {
-                "name": "OldSchool - Idle Animation",
-                "id": 10921230744
-            },
-            {
-                "name": "OldSchool - Walk Animation",
-                "id": 10921244891
-            },
-            {
-                "name": "OldSchool - Run Animation",
-                "id": 10921240218
-            },
-            {
-                "name": "OldSchool - Jump Animation",
-                "id": 10921242013
-            },
-            {
-                "name": "OldSchool - Fall Animation",
-                "id": 10921241244
-            },
-            {
-                "name": "OldSchool - Climb Animation",
-                "id": 10921229866
-            },
-            {
-                "name": "OldSchool - Swim Animation",
-                "id": 10921243048
-            }
-        ]
-    },
-    "300000000000029": {
-        "name": "Pirate",
-        "animations": [
-            {
-                "name": "Pirate - Idle Animation",
-                "id": 750781874
-            },
-            {
-                "name": "Pirate - Walk Animation",
-                "id": 750785693
-            },
-            {
-                "name": "Pirate - Run Animation",
-                "id": 750783738
-            },
-            {
-                "name": "Pirate - Jump Animation",
-                "id": 750782230
-            },
-            {
-                "name": "Pirate - Fall Animation",
-                "id": 750780242
-            },
-            {
-                "name": "Pirate - Climb Animation",
-                "id": 750779899
-            },
-            {
-                "name": "Pirate - Swim Animation",
-                "id": 750784579
-            }
-        ]
-    },
-    "300000000000030": {
-        "name": "Robot",
-        "animations": [
-            {
-                "name": "Robot - Idle Animation",
-                "id": 616088211
-            },
-            {
-                "name": "Robot - Walk Animation",
-                "id": 616095330
-            },
-            {
-                "name": "Robot - Run Animation",
-                "id": 10921250460
-            },
-            {
-                "name": "Robot - Jump Animation",
-                "id": 616090535
-            },
-            {
-                "name": "Robot - Fall Animation",
-                "id": 616087089
-            },
-            {
-                "name": "Robot - Climb Animation",
-                "id": 616086039
-            },
-            {
-                "name": "Robot - Swim Animation",
-                "id": 10921253142
-            }
-        ]
-    },
-    "300000000000031": {
-        "name": "Stylish",
-        "animations": [
-            {
-                "name": "Stylish - Idle Animation",
-                "id": 616136790
-            },
-            {
-                "name": "Stylish - Walk Animation",
-                "id": 616146177
-            },
-            {
-                "name": "Stylish - Run Animation",
-                "id": 10921276116
-            },
-            {
-                "name": "Stylish - Jump Animation",
-                "id": 616139451
-            },
-            {
-                "name": "Stylish - Fall Animation",
-                "id": 616134815
-            },
-            {
-                "name": "Stylish - Climb Animation",
-                "id": 10921271391
-            },
-            {
-                "name": "Stylish - Swim Animation",
-                "id": 10921281000
-            }
-        ]
-    },
-    "300000000000032": {
-        "name": "SuperHero",
-        "animations": [
-            {
-                "name": "SuperHero - Idle Animation",
-                "id": 10921288909
-            },
-            {
-                "name": "SuperHero - Walk Animation",
-                "id": 10921298616
-            },
-            {
-                "name": "SuperHero - Run Animation",
-                "id": 10921291831
-            },
-            {
-                "name": "SuperHero - Jump Animation",
-                "id": 10921294559
-            },
-            {
-                "name": "SuperHero - Fall Animation",
-                "id": 10921293373
-            },
-            {
-                "name": "SuperHero - Climb Animation",
-                "id": 10921286911
-            },
-            {
-                "name": "SuperHero - Swim Animation",
-                "id": 10921295495
-            }
-        ]
-    },
-    "300000000000033": {
-        "name": "Toy",
-        "animations": [
-            {
-                "name": "Toy - Idle Animation",
-                "id": 782841498
-            },
-            {
-                "name": "Toy - Walk Animation",
-                "id": 782843345
-            },
-            {
-                "name": "Toy - Run Animation",
-                "id": 10921306285
-            },
-            {
-                "name": "Toy - Jump Animation",
-                "id": 10921308158
-            },
-            {
-                "name": "Toy - Fall Animation",
-                "id": 782846423
-            },
-            {
-                "name": "Toy - Climb Animation",
-                "id": 10921300839
-            },
-            {
-                "name": "Toy - Swim Animation",
-                "id": 10921309319
-            }
-        ]
-    },
-    "300000000000034": {
-        "name": "Vampire",
-        "animations": [
-            {
-                "name": "Vampire - Idle Animation",
-                "id": 1083445855
-            },
-            {
-                "name": "Vampire - Walk Animation",
-                "id": 1083473930
-            },
-            {
-                "name": "Vampire - Run Animation",
-                "id": 10921320299
-            },
-            {
-                "name": "Vampire - Jump Animation",
-                "id": 1083455352
-            },
-            {
-                "name": "Vampire - Fall Animation",
-                "id": 1083443587
-            },
-            {
-                "name": "Vampire - Climb Animation",
-                "id": 1083439238
-            },
-            {
-                "name": "Vampire - Swim Animation",
-                "id": 10921324408
-            }
-        ]
-    },
-    "300000000000035": {
-        "name": "Werewolf",
-        "animations": [
-            {
-                "name": "Werewolf - Idle Animation",
-                "id": 1083195517
-            },
-            {
-                "name": "Werewolf - Walk Animation",
-                "id": 1083178339
-            },
-            {
-                "name": "Werewolf - Run Animation",
-                "id": 10921336997
-            },
-            {
-                "name": "Werewolf - Jump Animation",
-                "id": 1083218792
-            },
-            {
-                "name": "Werewolf - Fall Animation",
-                "id": 1083189019
-            },
-            {
-                "name": "Werewolf - Climb Animation",
-                "id": 10921329322
-            },
-            {
-                "name": "Werewolf - Swim Animation",
-                "id": 10921340419
-            }
-        ]
-    },
-    "300000000000036": {
-        "name": "Sports (Adidas)",
-        "animations": [
-            {
-                "name": "Sports (Adidas) - Idle Animation",
-                "id": 18537376492
-            },
-            {
-                "name": "Sports (Adidas) - Walk Animation",
-                "id": 18537392113
-            },
-            {
-                "name": "Sports (Adidas) - Run Animation",
-                "id": 18537384940
-            },
-            {
-                "name": "Sports (Adidas) - Jump Animation",
-                "id": 18537380791
-            },
-            {
-                "name": "Sports (Adidas) - Fall Animation",
-                "id": 18537367238
-            },
-            {
-                "name": "Sports (Adidas) - Climb Animation",
-                "id": 18537363391
-            },
-            {
-                "name": "Sports (Adidas) - Swim Animation",
-                "id": 18537389531
-            }
-        ]
-    },
-    "300000000000037": {
-        "name": "Wicked Dancing",
-        "animations": [
-            {
-                "name": "Wicked Dancing - Idle Animation",
-                "id": 82682578794949
-            },
-            {
-                "name": "Wicked Dancing - Walk Animation",
-                "id": 73718308412641
-            },
-            {
-                "name": "Wicked Dancing - Run Animation",
-                "id": 135515454877967
-            },
-            {
-                "name": "Wicked Dancing - Jump Animation",
-                "id": 78508480717326
-            },
-            {
-                "name": "Wicked Dancing - Fall Animation",
-                "id": 78147885297412
-            },
-            {
-                "name": "Wicked Dancing - Climb Animation",
-                "id": 129447497744818
-            },
-            {
-                "name": "Wicked Dancing - Swim Animation",
-                "id": 110657013921774
-            }
-        ]
-    },
-    "300000000000038": {
-        "name": "Adidas Aura",
-        "animations": [
-            {
-                "name": "Adidas Aura - Idle Animation",
-                "id": 73137983344853
-            },
-            {
-                "name": "Adidas Aura - Walk Animation",
-                "id": 83842218823011
-            },
-            {
-                "name": "Adidas Aura - Run Animation",
-                "id": 118320322718866
-            },
-            {
-                "name": "Adidas Aura - Jump Animation",
-                "id": 109996626521204
-            },
-            {
-                "name": "Adidas Aura - Fall Animation",
-                "id": 95603166884636
-            },
-            {
-                "name": "Adidas Aura - Climb Animation",
-                "id": 97824616490448
-            },
-            {
-                "name": "Adidas Aura - Swim Animation",
-                "id": 134530128383903
             }
         ]
     }
