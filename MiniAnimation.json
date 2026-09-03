@@ -1,1 +1,431 @@
-
+{
+    "222403775807181": {
+        "name": "Stand Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Stand Mini Me Animation… - Animação de inatividade",
+                "id": 80853068430272
+            },
+            {
+                "name": "Stand Mini Me Animation P… - Animação de caminhada",
+                "id": 70410189030295
+            },
+            {
+                "name": "Stand Mini Me Animation Pack - Animação de corrida",
+                "id": 127867655909794
+            },
+            {
+                "name": "Stand Mini Me Animation Pack - Animação de salto",
+                "id": 138282294651164
+            },
+            {
+                "name": "Stand Mini Me Animation Pack - Animação de queda",
+                "id": 122413419853019
+            },
+            {
+                "name": "Stand Mini Me Animation Pa… - Animação de escalada",
+                "id": 130098263012769
+            },
+            {
+                "name": "Stand Mini Me Animation Pack - Animação de nado",
+                "id": 135942475756543
+            }
+        ]
+    },
+    "263139306749709": {
+        "name": "Katana Mini Me Animation",
+        "animations": [
+            {
+                "name": "Katana Mini Me Animation - Animação de inatividade",
+                "id": 88662727174326
+            },
+            {
+                "name": "Katana Mini Me Animation - Animação de caminhada",
+                "id": 93633641215101
+            },
+            {
+                "name": "Katana Mini Me Animation - Animação de corrida",
+                "id": 129080888574935
+            },
+            {
+                "name": "Katana Mini Me Animation - Animação de salto",
+                "id": 101435484072196
+            },
+            {
+                "name": "Katana Mini Me Animation - Animação de queda",
+                "id": 120861749403414
+            },
+            {
+                "name": "Katana Mini Me Animation - Animação de escalada",
+                "id": 105817811707893
+            },
+            {
+                "name": "Katana Mini Me Animation - Animação de nado",
+                "id": 97580692966807
+            }
+        ]
+    },
+    "62877781068368": {
+        "name": "Shoulder Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Shoulder Mini Me Animat… - Animação de inatividade",
+                "id": 74850586850555
+            },
+            {
+                "name": "Shoulder Mini Me Animatio… - Animação de caminhada",
+                "id": 135336400840948
+            },
+            {
+                "name": "Shoulder Mini Me Animation … - Animação de corrida",
+                "id": 89870366921654
+            },
+            {
+                "name": "Shoulder Mini Me Animation Pa… - Animação de salto",
+                "id": 119768622506743
+            },
+            {
+                "name": "Shoulder Mini Me Animation Pa… - Animação de queda",
+                "id": 80111929890089
+            },
+            {
+                "name": "Shoulder Mini Me Animation… - Animação de escalada",
+                "id": 130160480655390
+            },
+            {
+                "name": "Shoulder Mini Me Animation Pack - Animação de nado",
+                "id": 83932683489856
+            }
+        ]
+    },
+    "245786166975939": {
+        "name": "Fly Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Fly Mini Me Animation P… - Animação de inatividade",
+                "id": 131831219789350
+            },
+            {
+                "name": "Fly Mini Me Animation Pack - Animação de caminhada",
+                "id": 106191469952097
+            },
+            {
+                "name": "Fly Mini Me Animation Pack - Animação de corrida",
+                "id": 73122420682772
+            },
+            {
+                "name": "Fly Mini Me Animation Pack - Animação de salto",
+                "id": 109425933455883
+            },
+            {
+                "name": "Fly Mini Me Animation Pack - Animação de queda",
+                "id": 93981453403704
+            },
+            {
+                "name": "Fly Mini Me Animation Pack - Animação de escalada",
+                "id": 111620766515497
+            },
+            {
+                "name": "Fly Mini Me Animation Pack - Animação de nado",
+                "id": 112366649786125
+            }
+        ]
+    },
+    "1495982245780": {
+        "name": "Backpack Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Backpack Mini Me Animat… - Animação de inatividade",
+                "id": 139742234627164
+            },
+            {
+                "name": "Backpack Mini Me Animatio… - Animação de caminhada",
+                "id": 105144426028548
+            },
+            {
+                "name": "Backpack Mini Me Animation … - Animação de corrida",
+                "id": 135865934394674
+            },
+            {
+                "name": "Backpack Mini Me Animation Pa… - Animação de salto",
+                "id": 126545896637088
+            },
+            {
+                "name": "Backpack Mini Me Animation Pa… - Animação de queda",
+                "id": 91085227231766
+            },
+            {
+                "name": "Backpack Mini Me Animation… - Animação de escalada",
+                "id": 128573218130173
+            },
+            {
+                "name": "Backpack Mini Me Animation Pack - Animação de nado",
+                "id": 88479061792680
+            }
+        ]
+    },
+    "76401293400730": {
+        "name": "Boss Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Boss Mini Me Animation … - Animação de inatividade",
+                "id": 129283327106726
+            },
+            {
+                "name": "Boss Mini Me Animation Pa… - Animação de caminhada",
+                "id": 139756219974540
+            },
+            {
+                "name": "Boss Mini Me Animation Pack - Animação de corrida",
+                "id": 85917722901185
+            },
+            {
+                "name": "Boss Mini Me Animation Pack - Animação de salto",
+                "id": 127567387590213
+            },
+            {
+                "name": "Boss Mini Me Animation Pack - Animação de queda",
+                "id": 105658710744831
+            },
+            {
+                "name": "Boss Mini Me Animation Pack - Animação de escalada",
+                "id": 112554610745320
+            },
+            {
+                "name": "Boss Mini Me Animation Pack - Animação de nado",
+                "id": 136023259668709
+            }
+        ]
+    },
+    "236892300079301": {
+        "name": "Rebel Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Rebel Mini Me Animation… - Animação de inatividade",
+                "id": 78700980601095
+            },
+            {
+                "name": "Rebel Mini Me Animation P… - Animação de caminhada",
+                "id": 102717267837628
+            },
+            {
+                "name": "Rebel Mini Me Animation Pack - Animação de corrida",
+                "id": 111551008628779
+            },
+            {
+                "name": "Rebel Mini Me Animation Pack - Animação de salto",
+                "id": 81182706553500
+            },
+            {
+                "name": "Rebel Mini Me Animation Pack - Animação de queda",
+                "id": 107925272783758
+            },
+            {
+                "name": "Rebel Mini Me Animation Pa… - Animação de escalada",
+                "id": 86999813624401
+            },
+            {
+                "name": "Rebel Mini Me Animation Pack - Animação de nado",
+                "id": 122326398392098
+            }
+        ]
+    },
+    "81096211790078": {
+        "name": "Cute Kawai Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Cute Kawai Mini Me Anim… - Animação de inatividade",
+                "id": 74162760311159
+            },
+            {
+                "name": "Cute Kawai Mini Me Animat… - Animação de caminhada",
+                "id": 106158774517343
+            },
+            {
+                "name": "Cute Kawai Mini Me Animatio… - Animação de corrida",
+                "id": 120096667261673
+            },
+            {
+                "name": "Cute Kawai Mini Me Animation … - Animação de salto",
+                "id": 134555433213562
+            },
+            {
+                "name": "Cute Kawai Mini Me Animation … - Animação de queda",
+                "id": 98940103650372
+            },
+            {
+                "name": "Cute Kawai Mini Me Animati… - Animação de escalada",
+                "id": 140662380718503
+            },
+            {
+                "name": "Cute Kawai Mini Me Animation P… - Animação de nado",
+                "id": 118772878913279
+            }
+        ]
+    },
+    "46776936678539": {
+        "name": "Diva Walk Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Diva Walk Mini Me Anima… - Animação de inatividade",
+                "id": 132036769042886
+            },
+            {
+                "name": "Diva Walk Mini Me Animati… - Animação de caminhada",
+                "id": 124807518319901
+            },
+            {
+                "name": "Diva Walk Mini Me Animation… - Animação de corrida",
+                "id": 129472801226181
+            },
+            {
+                "name": "Diva Walk Mini Me Animation P… - Animação de salto",
+                "id": 101006343012190
+            },
+            {
+                "name": "Diva Walk Mini Me Animation P… - Animação de queda",
+                "id": 136501338101949
+            },
+            {
+                "name": "Diva Walk Mini Me Animatio… - Animação de escalada",
+                "id": 85948126558902
+            },
+            {
+                "name": "Diva Walk Mini Me Animation Pa… - Animação de nado",
+                "id": 103844132517091
+            }
+        ]
+    },
+    "148554684402393": {
+        "name": "Mount Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Mount Mini Me Animation… - Animação de inatividade",
+                "id": 108209126180012
+            },
+            {
+                "name": "Mount Mini Me Animation P… - Animação de caminhada",
+                "id": 107151701292110
+            },
+            {
+                "name": "Mount Mini Me Animation Pack - Animação de corrida",
+                "id": 126741096876134
+            },
+            {
+                "name": "Mount Mini Me Animation Pack - Animação de salto",
+                "id": 131927433355020
+            },
+            {
+                "name": "Mount Mini Me Animation Pack - Animação de queda",
+                "id": 82110925828926
+            },
+            {
+                "name": "Mount Mini Me Animation Pa… - Animação de escalada",
+                "id": 78104818923261
+            },
+            {
+                "name": "Mount Mini Me Animation Pack - Animação de nado",
+                "id": 96591428294806
+            }
+        ]
+    },
+    "13847677942977": {
+        "name": "Annoying Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Annoying Mini Me Animat… - Animação de inatividade",
+                "id": 118862283492023
+            },
+            {
+                "name": "Annoying Mini Me Animatio… - Animação de caminhada",
+                "id": 123499402060535
+            },
+            {
+                "name": "Annoying Mini Me Animation … - Animação de corrida",
+                "id": 108064018869475
+            },
+            {
+                "name": "Annoying Mini Me Animation Pa… - Animação de salto",
+                "id": 77719056586289
+            },
+            {
+                "name": "Annoying Mini Me Animation Pa… - Animação de queda",
+                "id": 81914368217933
+            },
+            {
+                "name": "Annoying Mini Me Animation… - Animação de escalada",
+                "id": 122736580472463
+            },
+            {
+                "name": "Annoying Mini Me Animation Pack - Animação de nado",
+                "id": 133063333973854
+            }
+        ]
+    },
+    "85287647658206": {
+        "name": "Angry Mini Me Animation Pack",
+        "animations": [
+            {
+                "name": "Angry Mini Me Animation… - Animação de inatividade",
+                "id": 104613220188133
+            },
+            {
+                "name": "Angry Mini Me Animation P… - Animação de caminhada",
+                "id": 97089626210041
+            },
+            {
+                "name": "Angry Mini Me Animation Pack - Animação de corrida",
+                "id": 139872768469132
+            },
+            {
+                "name": "Angry Mini Me Animation Pack - Animação de salto",
+                "id": 83913615722075
+            },
+            {
+                "name": "Angry Mini Me Animation Pack - Animação de queda",
+                "id": 96017153708744
+            },
+            {
+                "name": "Angry Mini Me Animation Pa… - Animação de escalada",
+                "id": 88105741779350
+            },
+            {
+                "name": "Angry Mini Me Animation Pack - Animação de nado",
+                "id": 81886495424901
+            }
+        ]
+    },
+    "221310517641058": {
+        "name": "Mini Me Animation Animation Pack",
+        "animations": [
+            {
+                "name": "Mini Me Animation Anima… - Animação de inatividade",
+                "id": 106089150684940
+            },
+            {
+                "name": "Mini Me Animation Animati… - Animação de caminhada",
+                "id": 116237551178158
+            },
+            {
+                "name": "Mini Me Animation Animation… - Animação de corrida",
+                "id": 104913000423601
+            },
+            {
+                "name": "Mini Me Animation Animation P… - Animação de salto",
+                "id": 133780000255900
+            },
+            {
+                "name": "Mini Me Animation Animation P… - Animação de queda",
+                "id": 79041695698101
+            },
+            {
+                "name": "Mini Me Animation Animatio… - Animação de escalada",
+                "id": 104828442123637
+            },
+            {
+                "name": "Mini Me Animation Animation Pa… - Animação de nado",
+                "id": 83799110138560
+            }
+        ]
+    }
+}
